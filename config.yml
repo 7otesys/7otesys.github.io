@@ -4,7 +4,7 @@ description: Un blog personal
 
 # Configuracion
 url: http://7otesys.github.io/
-baseurl: /7otesys.github.io/
+baseurl: /7otesys.github.io
 paginate: 5
 paginate_path: "page:num"
 highlighter: pygments
