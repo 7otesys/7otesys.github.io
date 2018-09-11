@@ -1,2 +1,24 @@
-name : Camilo Moreno
-Description : mi blog
+# Inicio
+name: Camilo Moreno
+description: Un blog personal
+
+# Configuracion
+url: http://7otesys.github.io/
+baseurl: /7otesys.github.io/
+paginate: 5
+paginate_path: "page:num"
+highlighter: pygments
+markdown: kramdown
+
+# Redes Sociales
+author: Camilo Moreno
+twitter: https://twitter.com/
+CodePen: https://codepen.io/
+GooglePlus: https://plus.google.com/
+GitHub: https://github.io/7otesys/
+Behance: https://www.behance.net/
+Facebook: https://facebok.com/
+Vimeo: https://vimeo.com/
+dribbble: http://www.dribbble.com/
+
+exclude: [ config.codekit ]
